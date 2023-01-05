@@ -18,8 +18,8 @@ foreach($animals as $animal){
 #課題1
 $name = "reo";
 
-$name = "reo";
-if ($name = "reo") {
+$name = "taro";
+if ($name == "reo") {
     echo "私は あなたの名前 です";
 } else {
     echo "あなたの名前ではありません";
